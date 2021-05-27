@@ -1,0 +1,9 @@
+.text { 
+color:aquamarine;
+font-size: 110%;
+}
+
+h1, h2, p {
+  text-align: right;
+  color: red;
+}
